@@ -1,5 +1,8 @@
 # 🩺 Clinicspulse (نبض العيادات)
 
+<img width="250" height="500" alt="ar-logo" src="https://github.com/user-attachments/assets/e7e3859a-2c12-4d23-8cfd-f3b7b62c57d0" />
+
+
 **Where care meets organization — حيث تلتقي الرعاية بالتنظيم**
 
 Clinicspulse is a modern platform designed to help clinics and doctors collaborate, manage patients, and streamline daily operations — tailored for Arabic-speaking regions, starting with Syria.
