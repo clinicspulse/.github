@@ -1,2 +1,2 @@
-# .github
-Clinics Pulse profile
+# Welcome to ClinicsPulse
+## Coming soon
